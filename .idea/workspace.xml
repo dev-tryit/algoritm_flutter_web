@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da621498-8e1b-4d51-8b8a-97986f8f0610" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_code/scripts/buildAndCopy.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22sAsJS6JWGl6CA0OyD725qFBtY" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_code" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\imkim\StudioProjects\algoritm_flutter_web\_code\scripts" />
+      <recent name="C:\Users\imkim\StudioProjects\algoritm_flutter_web\_code" />
+      <recent name="C:\Users\imkim\StudioProjects\algoritm_flutter_web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\imkim\StudioProjects\algoritm_flutter_web\_code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="buildAndCopy.sh" type="ShConfigurationType" temporary="true">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/_code/scripts/buildAndCopy.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/_code/scripts" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Shell Script.buildAndCopy.sh" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da621498-8e1b-4d51-8b8a-97986f8f0610" name="Default Changelist" comment="" />
+      <created>1640616127493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640616127493</updated>
+    </task>
+    <task id="LOCAL-00001" summary="코드 적용">
+      <created>1640616192012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640616192012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="코드 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="코드 적용" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="4" key="CommitChangelistDialog2" timestamp="1640616190829">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="0" y="4" key="CommitChangelistDialog2/0.0.1463.874@0.0.1463.874" timestamp="1640616190829" />
+    <state x="512" y="192" key="FileChooserDialogImpl" timestamp="1640616232472">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="512" y="192" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1640616232472" />
+    <state x="440" y="139" key="RollbackChangesDialog" timestamp="1640616973166">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="440" y="139" key="RollbackChangesDialog/0.0.1463.874@0.0.1463.874" timestamp="1640616973166" />
+    <state x="0" y="170" key="Vcs.Push.Dialog.v2" timestamp="1640616193465">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="0" y="170" key="Vcs.Push.Dialog.v2/0.0.1463.874@0.0.1463.874" timestamp="1640616193465" />
+  </component>
+</project>
